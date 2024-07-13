@@ -16,7 +16,7 @@ To install and run the Leap Year Checker program, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/leap-year-checker.git
+    git clone https://github.com/Mehar-Aziz/leap-year-checker.git
     ```
 2. Navigate to the project directory:
     ```sh
